@@ -5,8 +5,6 @@ Becoder 美化 + 可视化背景图设置用户脚本。
 ## 功能
 - 玻璃拟态 UI（首页 / 个人主页 / 讨论 / 页）
 - 自定义背景图（URL 直链），支持恢复默认
-- 菜单栏注入"STARRY BECODER 设置"入口
-- 兼容新旧版首页
 
 ## 安装
 1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/)
